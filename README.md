@@ -63,12 +63,6 @@ bcr-abl-ml-model/
 
 ---
 
-## 📄 Full Thesis
-
-📘 [`thesis/Chemoinformatic_Analysis_BCR_ABL.pdf`](./thesis/Chemoinformatic_Analysis_BCR_ABL.pdf)
-
----
-
 ## 🚀 Future Work
 
 - Expand dataset to include more kinase targets
